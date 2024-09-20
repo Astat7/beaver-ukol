@@ -6,7 +6,7 @@ class Lokalita:
     self.dens = []
 
   def __str__(self):
-    return "Test"
+    return f"Beaver {self.beavers[0]['id']} lives in Den {self.beavers[0]['den_id']}"
 
   def load(self, filePath, typ):
     if typ == "beaver":

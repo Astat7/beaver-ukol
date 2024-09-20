@@ -1,3 +1,5 @@
+import json
+
 class Lokalita:
   def __init__(self):
     self.beavers = []
@@ -6,7 +8,7 @@ class Lokalita:
     return "Test"
 
   def load(self, filePath):
-    return "Test"
+    file = json.loads(open(filePath, "r"))
 
 lokalit = Lokalita()
 print(lokalit)

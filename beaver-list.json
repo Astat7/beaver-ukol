@@ -1,22 +1,22 @@
 [
     {
         "id":1,
-        "age":12,
+        "age":6,
         "sex":"male"
     },
     {
         "id":2,
-        "age":8,
+        "age":5,
         "sex":"female"
     },
     {
         "id":3,
-        "age":9,
+        "age":5,
         "sex":"male"
     },
     {
         "id":4,
-        "age":10,
+        "age":4,
         "sex":"female"
     }
 ]

@@ -8,7 +8,7 @@ class Lokalita:
     return "Test"
 
   def load(self, filePath):
-    file = json.loads(open(filePath, "r"))
+    self.beavers = json.loads(open(filePath, "r"))
 
 lokalit = Lokalita()
 lokalit.load(".\beaver-list.json")

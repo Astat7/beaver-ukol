@@ -8,7 +8,7 @@ class Lokalita:
   def __str__(self):
     return "Test"
 
-  def loadBeaver(self, filePath, typ):
+  def load(self, filePath, typ):
     if typ == "beaver":
       self.beavers = json.loads(open(filePath, "r"))
     elif typ == "den":

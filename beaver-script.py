@@ -11,4 +11,5 @@ class Lokalita:
     file = json.loads(open(filePath, "r"))
 
 lokalit = Lokalita()
+lokalit.load(".\beaver-list.json")
 print(lokalit)

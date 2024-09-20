@@ -2,21 +2,25 @@
     {
         "id":1,
         "age":6,
-        "sex":"male"
+        "sex":"male",
+        "den_id":1
     },
     {
         "id":2,
         "age":5,
-        "sex":"female"
+        "sex":"female",
+        "den_id":1
     },
     {
         "id":3,
         "age":5,
-        "sex":"male"
+        "sex":"male",
+        "den_id":2
     },
     {
         "id":4,
         "age":4,
-        "sex":"female"
+        "sex":"female",
+        "den_id":3
     }
 ]

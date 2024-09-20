@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "age":12,
+        "sex":"male"
+    },
+    {
+        "id":2,
+        "age":8,
+        "sex":"female"
+    },
+    {
+        "id":3,
+        "age":9,
+        "sex":"male"
+    },
+    {
+        "id":4,
+        "age":10,
+        "sex":"female"
+    }
+]

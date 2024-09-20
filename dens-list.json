@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "location":"north"
+  },
+  {
+    "id":2,
+    "location":"east"
+  },
+  {
+    "id":3,
+    "location":"south"
+  },
+  {
+    "id":4,
+    "location":"west"
+  },
+]
